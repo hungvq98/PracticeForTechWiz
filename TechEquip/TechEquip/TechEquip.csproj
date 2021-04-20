@@ -143,6 +143,7 @@
     <Content Include="Areas\Admin\Views\Shared\AdminPage.cshtml" />
     <Content Include="Areas\Admin\Views\Adminsite\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Adminsite\Product.cshtml" />
+    <Content Include="Areas\Admin\Views\Adminsite\Store.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
